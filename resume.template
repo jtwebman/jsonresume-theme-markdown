@@ -3,6 +3,8 @@
 
 # {{name}}
 
+{{#if email}}![Profile Picture]({{{picture}}}){{/if}}
+
 ## Contact
 
 {{#if email}}Email: [{{email}}](mailto:{{email}})  {{/if}}
