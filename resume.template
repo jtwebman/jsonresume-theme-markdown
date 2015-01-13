@@ -3,7 +3,7 @@
 
 # {{name}}
 
-{{#if email}}![Profile Picture]({{{picture}}}){{/if}}
+{{#if picture}}![Profile Picture]({{{picture}}}){{/if}}
 
 ## Contact
 
